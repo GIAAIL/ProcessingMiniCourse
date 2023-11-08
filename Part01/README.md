@@ -1,4 +1,15 @@
 # PART 01
+* Basic shapes
+* Basic code structure
+  * IF statement
+  * FOR loop
+
+## Examples
+* Shape
+* Shapes
+* Grids
+* Bouncing ball
+* Mondrian
 
 ## Self-learning materials 自學教材
 * Built-in examples
