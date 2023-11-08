@@ -1,5 +1,6 @@
 # Processing Mini Course
 A mini course for beginners provided by NYCU ICT Workshop.
+
 Instructor: June-Hao Hou <jhou@arch.nycu.edu.tw>
 
 # Fall 2023
